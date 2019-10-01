@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url("../assets/indianapolis-4089130_960_720.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    text-align: center;
+    color:white;
+  
+}
+
