@@ -1,0 +1,22 @@
+form{
+    position: relative;
+    text-align: center;
+    font-family: 'Playfair Display SC', serif;
+}
+
+
+#contact{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.form-control{
+    text-align: center;
+    position: relative;
+    width: 100%;
+     max-width: 500px;
+     box-sizing: border-box;
+    margin-left: 35%;
+    
+     
+}
+    

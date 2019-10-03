@@ -1,15 +1,28 @@
 .jumbotron{
-    background-image: url("../assets/indianapolis-4089130_960_720.jpg");
+    background-image: url("../assets/cacti-close-up-colors-776656.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
     padding: 0;
     margin: 0;
     border: none;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 26px;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 50px;
     text-align: center;
-    color:white;
+    color: black;
   
 }
 
+.display-4{
+animation: text 3s 1;
+}
+
+@keyframes text{
+    5%{
+        margin-bottom: -40px;
+        color:white;
+    }
+    30%{
+        letter-spacing: 25px;
+    }
+}
