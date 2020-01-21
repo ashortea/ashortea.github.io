@@ -2,3 +2,8 @@ nav{
     background-color: lightgray;
     background-image: none;
 }
+.nav{ 
+    color: crimson
+    width: 2em;
+    height: 2em;
+}
